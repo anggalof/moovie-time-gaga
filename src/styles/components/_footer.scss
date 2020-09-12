@@ -1,0 +1,167 @@
+.footer-wrap {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	bottom: 0;
+	position: relative;
+	width: 100%;
+	margin-top: 60px;
+}
+.footer-register {
+	background: #F5F7FA;
+	width: 100%;
+	padding: 40px 0;
+}
+.footer-title-start {
+	font-weight: bold;
+	font-size: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	width: 50%;
+	text-align: center;
+}
+.footer-button-register {
+	background: linear-gradient(17.24deg, #B91818 11.11%, #9E145F 86.32%);
+	border-radius: 8px;
+	padding: 8px 20px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	font-weight: bold;
+	font-size: 14px;
+}
+.footer-list {
+	border-top: 1px solid #eeeeee;
+	align-items: center;
+	overflow: hidden;
+	background-color: #ffffff;
+	z-index: 5;
+	width: 100%;
+	clear: both;
+	padding: 20px 20px 85px 120px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.footer-info-detail {
+	width: 100%;
+}
+.footer-box-caption {
+	float: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 20px;
+	color: #666666;
+	width: 40%;
+	@media only screen and(max-width: 650px) {
+		font-size: 10px;
+		margin-left: 13px;
+	}
+}
+.footer-caption-detail {
+	font-size: 14px;
+	width: 75%;
+	margin-top: 10px;
+	color: #766F6F;
+}
+.footer-download-app {
+	margin: 0;
+}
+.footer-title-download-app {
+	font-size: 14px;
+	color: #B9060A;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.img-download {
+	margin-right: 10px;
+	width: 140px;
+	height: auto;
+	cursor: pointer;
+}
+.footer-box-quicklinks {
+	float: left;
+	width: 20%;
+}
+.footer-box-title {
+	font-size: 14px;
+	font-weight: bold;
+	color: #B9060A;
+	line-height: 30px;
+}
+.footer-wrapper {
+	clear: both;
+}
+.footer-icon-list {
+	float: left;
+	width: 14px;
+	margin: 8px 10px 5px 0;
+	height: auto;
+}
+.footer-description {
+	font-size: 12px;
+	padding-top: 5px;
+	width: 185px;
+	float: left;
+	color: #766F6F;
+}
+.footer-title-lists {
+	font-size: 13px;
+	line-height: 26px;
+	color: #766F6F;
+	cursor: pointer;
+}
+.footer-box-contactus {
+	float: left;
+	width: 25%;
+}
+.footer-box-social-media {
+	font-size: 14px;
+	font-weight: bold;
+	color: #B9060A;
+	line-height: 30px;
+	clear: both;
+}
+.img-social-media {
+	margin-right: 10px;
+	width: 18px;
+	height: auto;
+}
+.footer-logo-telkom {
+	float: left;
+}
+.img-logo-telkom {
+	width: 120px;
+	height: auto;
+}
+.footer-down {
+	height: 40px;
+	align-items: center;
+	overflow: hidden;
+	background: linear-gradient(3.11deg, #B91818 11.11%, #9E145F 86.32%);
+	z-index: 5;
+	width: 100%;
+	clear: both;
+}
+.footer-copyright {
+	float: left;
+	color: #FFFFFF;
+	font-size: 12px;
+	padding: 10px 0 0 50px;
+	width: 60%;
+}
+.footer-wrap-content {
+	float: left;
+	width: 12%;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 10px 0;
+	font-weight: bold;
+	cursor: pointer;
+}

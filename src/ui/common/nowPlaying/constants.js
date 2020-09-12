@@ -1,0 +1,3 @@
+export const NOW_PLAYING_REQUEST = 'common/NOW_PLAYING_REQUEST';
+export const NOW_PLAYING_RECEIVED = 'common/NOW_PLAYING_RECEIVED';
+export const NOW_PLAYING_ERROR = 'common/NOW_PLAYING_ERROR';

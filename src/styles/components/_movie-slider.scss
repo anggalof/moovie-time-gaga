@@ -1,0 +1,35 @@
+.movie-wrapper {
+	padding: 0;
+}
+.arrow-icon-next {
+	right: -60px;
+	width: 55px;
+	height: 55px;
+	border-radius: 33px;
+	position: absolute;
+	font-size: 0;
+	line-height: 0;
+	margin-top: 165px;
+	z-index: 999;
+	cursor: pointer;
+
+	@media (max-width: 375px) {
+		right: 0 !important;
+	}
+}
+.arrow-icon-prev {
+	left: -60px;
+	width: 55px;
+	height: 55px;
+	border-radius: 33px;
+	position: absolute;
+	font-size: 0;
+	line-height: 0;
+	margin-top: 165px;
+	z-index: 999;
+	cursor: pointer;
+
+	@media (max-width: 375px) {
+		left: 0 !important;
+	}
+}
